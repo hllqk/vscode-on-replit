@@ -1,0 +1,5 @@
+bind-addr: 127.0.0.1:8080
+auth: password
+password: 3bd1d8ae35fd1e82d27b502c
+cert: false
+hashed-password: 填hash密码不加”“
