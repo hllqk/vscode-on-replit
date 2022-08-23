@@ -14,6 +14,10 @@
 
 在 **.config/code-server/config.yaml** 的 **password=** 注意隐私，或者自己创建一个**secrets**
 
+#### Python:
+
+看*index.py*还有 **！！！shell是指vscode里面的shell不是replit的！！！**
+
 #### 问题:
 
 有任何问题提**issue**
