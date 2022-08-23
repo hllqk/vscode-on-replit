@@ -10,6 +10,8 @@
   <img alt="Run on Repl.it" src="https://camo.githubusercontent.com/5b5316dd014ebbf028c608ff43c6530250b667bea92cdcf87ab231ce583437cc/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f616c6973742d6f72672f616c6973742d7265706c6974" style="height: 40px; width: 190px; max-width: 100%;">
 </a>
 
+安装失败，缺少文件？意料之中呵呵哈哈哈，[点我直接fork安装](https://replit.com/@hllqk/vscode?v=1)
+
 #### 密码:
 
 ##### 建议：
