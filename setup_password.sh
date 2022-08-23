@@ -1,0 +1,2 @@
+#设置replit vscode密码，必须要做的，先输入npx，回车，Ctrl+D，然后在replit shell输入 sh setup_password.sh ，复制输出的hash值，如：$argon2i$v=19$m=5434,t=3,p=x$vxxxxxxxxxcxxxx$xxxxXxxxxxxxxxxxx/xxxxxx/Xxxxx ，把值粘贴到.config/code-server/config.yaml 的 hashed-password=值 就可以了Run了
+echo -n "Qw1357924680" | npx argon2-cli -e
